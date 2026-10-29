@@ -1,0 +1,11 @@
+torch==2.3.0+cu121
+torchvision==0.18.0+cu121
+torchaudio==2.3.0+cu121
+
+qwen-tts
+fastapi
+uvicorn[standard]
+soundfile
+httpx
+pydantic>=2
+numpy
